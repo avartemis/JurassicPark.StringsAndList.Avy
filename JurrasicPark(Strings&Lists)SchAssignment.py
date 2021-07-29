@@ -1,5 +1,5 @@
 # CS1101. Chapter 11: String & Lists. Week 6. By Avy Artemis.
-# Theme: Jurassic Park (Tne Laboratory)
+# Theme: Jurassic Park (The Laboratory)
 
 
 # List 5 words in a string separated by spaces (Be Original, They Said)
