@@ -1,4 +1,4 @@
-# CS1101. Chapter 11: String & Lists. Week 6. By Avy Artemis.
+# CS1101. Chapter 8-10: String & Lists. Week 6. By Avy Artemis.
 # Theme: Jurassic Park (The Laboratory)
 
 
