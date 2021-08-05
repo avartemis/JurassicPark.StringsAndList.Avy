@@ -1,4 +1,5 @@
-# Creating an Artistic Inverted Dictionary
+# CS1101. Chapter 11: Dictionaries. Week 7. By Avy Artemis.
+# Theme: Creating an Artistic Inverted Dictionary
 RainbowColors = {'C1': ['Red', 'Rose', 'Sangria', 'Scarlet', 'Warm Colours'],
                  'C2': ['Orange', 'Carrot', 'Sandstone', 'Warm Colours'],
                  'C3': ['Yellow', 'Bumble Bee', 'Dandelion', 'Warm Colours'],
