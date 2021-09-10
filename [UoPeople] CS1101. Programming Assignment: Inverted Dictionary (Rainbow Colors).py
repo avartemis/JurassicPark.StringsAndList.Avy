@@ -1,4 +1,4 @@
-# CS1101. Chapter 11: Dictionaries. Week 7. By Avy Artemis.
+# CS1101(Intro To Python). Chapter 11: Dictionaries. Week 7. By Avy Artemis.
 # Theme: Creating an Artistic Inverted Dictionary
 RainbowColors = {'C1': ['Red', 'Rose', 'Sangria', 'Scarlet', 'Warm Colours'],
                  'C2': ['Orange', 'Carrot', 'Sandstone', 'Warm Colours'],
